@@ -30,6 +30,8 @@ It uses the correction data to improve its own computed position from the GNSS a
 
 # Walking Data Plots
 
+  Scatter plot            |  Line plot             | 
+:-------------------------:|:------------------------:|
 | <img src="gpsdriver/data/walk_open_scatter.png" width=500px> | <img src="gpsdriver/data/walk_open_line.png" width=500px> | 
 | <img src="gpsdriver/data/walk_noisy_scatter.png" width=500px> | <img src="gpsdriver/data/walk_noisy_line.png" width=500px> |
 
